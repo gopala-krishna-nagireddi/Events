@@ -1,0 +1,28 @@
+/* Write your CSS here */
+
+.app-container {
+  font-family: 'Roboto';
+  display: flex;
+}
+
+.events-container {
+  background-color: #323f4b;
+  width: 60%;
+  color: #ffffff;
+  padding: 30px;
+}
+
+.events-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.registration-status-container {
+  width: 40%;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
